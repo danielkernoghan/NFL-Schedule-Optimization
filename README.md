@@ -1,4 +1,4 @@
-# 🏈 NFL Travel Distance Minimization – CO 370 Final Project
+# 🏈 NFL Travel Distance Minimization
 
 This project explores how the NFL (National Football League) can reduce its environmental impact by optimizing team travel using mathematical modeling and linear programming.
 
