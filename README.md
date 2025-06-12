@@ -1,10 +1,10 @@
-# 🏈 NFL Travel Distance Minimization
+# NFL Travel Distance Minimization
 
 This project explores how the NFL (National Football League) can reduce its environmental impact by optimizing team travel using mathematical modeling and linear programming.
 
 ---
 
-## 📌 Problem Overview
+## Problem Overview
 
 The NFL currently schedules 272 regular-season games across 32 teams, with a mix of divisional and inter-conference matchups. However, travel inefficiencies are built into this structure — teams like the Miami Dolphins must frequently travel far to face division rivals.
 
@@ -15,7 +15,7 @@ This project proposes a **restructured NFL schedule** that:
 
 ---
 
-## 💻 What’s Included
+## What’s Included
 
 | Folder        | Contents                                                  |
 |---------------|-----------------------------------------------------------|
